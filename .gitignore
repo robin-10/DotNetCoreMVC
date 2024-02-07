@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/NetCore_WebGentle/v16
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/WebGentle.BookStore/.vs/WebGentle.BookStore
+/WebGentle.BookStore/WebGentle.BookStore/obj
+/WebGentle.BookStore/WebGentle.BookStore/bin/Debug/netcoreapp3.1
